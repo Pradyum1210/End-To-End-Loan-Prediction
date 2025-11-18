@@ -98,7 +98,7 @@ Buttons
 Success & Warning messages
 
 
-Screenshot/Output
+📸 Screenshots 
 
 <img width="1909" height="960" alt="image" src="https://github.com/user-attachments/assets/2a4cf23e-7dc3-4f7b-be37-bcf15d65481b" />
 
