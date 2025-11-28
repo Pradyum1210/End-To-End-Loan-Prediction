@@ -100,7 +100,4 @@ This project demonstrates an end-to-end ML deployment pipeline, including:
 - Pandas, NumPy, Scikit-learn  
 - SQL Database (MySQL, SQLite, PostgreSQL)  
 
-### Clone Instructions
-```bash
-git clone https://github.com/your-username/loan-prediction-app.git
-cd loan-prediction-app
+
